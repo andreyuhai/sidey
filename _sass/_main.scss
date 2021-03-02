@@ -20,7 +20,7 @@ nav ul {
 }
 
 a {
-    color: #000;
+    color: var(--link-color);
     text-decoration-skip-ink: auto;
     text-decoration: underline;
 }
