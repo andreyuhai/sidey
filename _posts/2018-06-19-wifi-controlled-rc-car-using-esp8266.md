@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Wi-Fi Controlled RC Car Using ESP8266-01
-excerpt: In this post I will be documenting my project about a Wi-Fi controlled RC car using WebSocket protocol with ESP8266-01.
-modified: 2018-07-10 19:22:52 +0300
-categories: articles
-tags: [arduino, ESP8266, IoT, WebSockets]
+tags: [arduino, esp8266, iot, websockets]
 comments: true
-share: true
-published: true
-aging: true
 ---
 
 ## Contents

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Ruby Notes Worth Noting
-excerpt: Ruby programming language notes that I've found useful to note.
-modified:
-categories: articles
-tags: [ruby, ruby programming language, note]
-published: true
-aging: true
+tags: [ruby, notes]
 comments: true
 ---
 

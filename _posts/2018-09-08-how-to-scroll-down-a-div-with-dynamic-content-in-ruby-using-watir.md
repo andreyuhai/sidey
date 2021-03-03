@@ -1,14 +1,8 @@
 ---
 layout: post
 title: How to scroll down a div with dynamic content in Ruby using Watir
-excerpt: A brief explanation on how to scroll down a div with dynamic content as long as there is more content to show.
-modified: 2018-09-09 22:36:52 +0300
-categories: articles
-tags: [ruby, watir, dynamic content]
+tags: [ruby, watir, dynamic-content]
 comments: true
-share: true
-published: true
-aging: true
 ---
 
 ## TL;DR

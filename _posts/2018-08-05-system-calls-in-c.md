@@ -1,14 +1,8 @@
 ---
 layout: post
 title: System Calls in C
-excerpt: System calls and how to make one. System and exec functions.
-modified:
-categories: articles
-tags: [C, system calls]
+tags: [c, system-calls]
 comments: true
-share: true
-published: true
-aging: true
 ---
 
 A system call is a request for service that a program makes of the kernel. An example to that would be the `system()` function.<sup>[1][1]</sup>
