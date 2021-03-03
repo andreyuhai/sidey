@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coursera - Machine Learning - Ex4 - Predicting Your Handwriting"
+title: Coursera - Machine Learning - Ex4 - Predicting Your Handwriting
 excerpt: How to predict your own handwriting using multiclass classifiers given in programming exercise 4 of machine learning course by Andrew Ng on coursera.
 modified:
 categories: articles
@@ -14,11 +14,6 @@ share: true
 published: true
 aging: true
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">25 September 2019</p>
 
 I've been studying Andrew Ng's [machine learning course][1] on Coursera for a while now. I've just finished 4th week assignment which is about training multiclass classifiers and using already trained neural networks to predict handwritten digits.
 

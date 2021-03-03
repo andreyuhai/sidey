@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding the Function surf() in Octave/MATLAB"
+title: Understanding the Function surf() in Octave/MATLAB
 excerpt: An explanation(!) on why we have to transpose that matrix when we are plotting with surf().
 modified:
 categories: articles
@@ -14,11 +14,6 @@ share: true
 published: true
 aging: true
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">20 July 2019</p>
 
 I've been studying Machine Learning for a few days now, on [Coursera](https://www.coursera.org/learn/machine-learning/). After finishing 1<sup>st</sup> and 2<sup>nd</sup> weeks, I've got the first assignment for the course where you are supposed to implement Linear Regression using Gradient Descent.
 
