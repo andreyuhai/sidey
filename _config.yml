@@ -1,14 +1,14 @@
 site: Sidey
 url: https://blog.andreyuhai.com
-title: Andre Yuhai
-description: Blog
+title: André Yuhai | Personal Blog
+description: A personal blog where I usually take notes that are important to me
 twitter:
-  username: #yourusername
+  username: andreyuhai
   card: summary
   creator: #yourusername
 author:
   twitter: andreyuhai
-  name: Andre
+  name: André
   avatar:
   email: #youremail
   url: #yoururl
