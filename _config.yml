@@ -1,20 +1,20 @@
 site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+url: https://blog.andreyuhai.com
+title: Andre Yuhai
+description: Blog
 twitter:
   username: #yourusername
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: andreyuhai
+  name: Burak
   avatar:
   email: #youremail
   url: #yoururl
 permalink: pretty
 
-baseurl: ""
+baseurl: "https://blog.andreyuhai.com"
 
 highlighter: rouge
 
