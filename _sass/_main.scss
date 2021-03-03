@@ -214,5 +214,8 @@ figcaption {
     font-size: smaller;
 }
 
+input {
+    color: var(--light-text-color);
+}
 @import "highlight";
 @import "themetoggle";
