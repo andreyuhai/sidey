@@ -12,7 +12,7 @@ $ rails new awesome-project
 
 Add `bootstrap`, `popper.js` and `jquery` using `yarn`.
 ```bash
-$ yarn bootstrap popper.js jquery
+$ yarn add bootstrap popper.js jquery
 ```
 
 Copy the snippet below into `config/webpack/environment.js`
