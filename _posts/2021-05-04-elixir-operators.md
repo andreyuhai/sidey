@@ -14,7 +14,7 @@ a and b # false if a is false; otherwise b
 not a	# false if a is true; otherwise b
 ```
 
-These operators take arguments of any type. Any value apart from `nil` or `false` is interpreted as `true`.
+These operators take arguments of any type. Any value apart from `nil` or `false` is interpreted as `true`:
 ```elixir
 a || b	# a if a is truthy; otherwise b
 a && b	# b if a is truthy; otherwise a
