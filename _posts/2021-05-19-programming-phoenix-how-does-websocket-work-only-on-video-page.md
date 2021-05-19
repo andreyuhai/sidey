@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programming Phoenix 1.4 | How does the websockets connect only on the video page?
+title: Programming Phoenix 1.4 | How do the websockets connect only on the video page?
 tags: [elixir, phoenix, websockets]
 comments: true
 ---
